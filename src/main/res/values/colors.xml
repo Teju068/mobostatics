@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Simple Bar Chart -->
+    <color name="barchart_background_end_color">#FF007FAD</color>
+    <color name="barchart_background_start_color">#FF005BAB</color>
+</resources>
